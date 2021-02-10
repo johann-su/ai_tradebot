@@ -15,7 +15,7 @@ dill==0.3.3
 dm-tree==0.1.5
 flatbuffers==1.12
 future==0.18.2
-gast==0.3.3
+gast==0.4.0
 gin-config==0.4.0
 google-api-core==1.24.1
 google-api-python-client==1.12.8
