@@ -47,7 +47,7 @@ oauthlib==3.1.0
 opencv-python-headless==4.4.0.46
 opt-einsum==3.3.0
 pandas==1.1.5
-Pillow==8.0.1
+Pillow==8.1.1
 promise==2.3
 proto-plus==1.13.0
 protobuf==3.14.0
